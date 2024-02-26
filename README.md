@@ -1,5 +1,3 @@
-Introdução:
-
 Ao desenvolver este projeto de gestão bancária, meu objetivo principal era criar uma aplicação modular e interativa que oferecesse funcionalidades essenciais, como depósito, saque, exibição de extrato, criação de usuários e contas. Abordei o projeto com a intenção de garantir clareza e eficiência na interação com o usuário.
 
 
